@@ -1,2 +1,1 @@
-# yomi-training
-Our Training
+This is our training with Mr Yomi
